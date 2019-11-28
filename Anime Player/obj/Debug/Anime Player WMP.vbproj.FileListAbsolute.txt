@@ -1,0 +1,71 @@
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\bin\Debug\Anime Player WMP.exe.config
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\bin\Debug\Anime Player WMP.exe
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime Player WMP.vbprojResolveAssemblyReference.cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime Player WMP.vbproj.ResolveComReference.cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime_Player_WMP.Episodios.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime_Player_WMP.Player.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime_Player_WMP.TodosOsAnimes.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime_Player_WMP.UltimosAnimes.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime_Player_WMP.Resources.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime Player WMP.vbproj.GenerateResource.Cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime Player WMP.exe
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime Player WMP.xml
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\obj\Debug\Anime Player WMP.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\bin\Debug\Anime Player WMP.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\bin\Debug\Anime Player WMP.xml
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Teste 3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Anime Player WMP.exe.config
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.vbproj.ResolveComReference.cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.exe
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.xml
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Anime Player WMP.exe
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Anime Player WMP.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Anime Player WMP.xml
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.vbprojResolveAssemblyReference.cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.Episodios.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.Player.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.TodosOsAnimes.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.UltimosAnimes.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.Resources.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.vbproj.GenerateResource.Cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.TesteCustomTrackBar.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Anime Player WMP.exe.config
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.vbproj.ResolveComReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Anime Player WMP.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Anime Player WMP.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Anime Player WMP.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.vbprojResolveAssemblyReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.Episodios.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.Player.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.TodosOsAnimes.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.UltimosAnimes.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.Resources.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime Player WMP.vbproj.GenerateResource.Cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Anime Player\obj\Debug\Anime_Player_WMP.Sobre.resources
