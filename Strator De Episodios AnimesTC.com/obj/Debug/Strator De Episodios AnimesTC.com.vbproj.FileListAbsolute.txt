@@ -1,0 +1,46 @@
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.exe.config
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.exe
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.xml
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.vbprojResolveAssemblyReference.cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Resources.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.vbproj.GenerateResource.Cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.exe
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.xml
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Form1.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Teste 3\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Teste.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.exe.config
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.exe
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.xml
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.exe
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.xml
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.vbprojResolveAssemblyReference.cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Form1.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Resources.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Teste.resources
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.vbproj.GenerateResource.Cache
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Interop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Interop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.vbproj.ResolveComReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.exe.config
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.vbproj.ResolveComReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Strator De Episodios AnimesTC.com.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.vbprojResolveAssemblyReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Form1.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Resources.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator_De_Episodios_AnimesTC.com.Teste.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Animes Player WMP\Strator De Episodios AnimesTC.com\obj\Debug\Strator De Episodios AnimesTC.com.vbproj.GenerateResource.Cache
